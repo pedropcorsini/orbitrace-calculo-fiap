@@ -33,17 +33,16 @@ Constantes utilizadas:
 - `R_T = 6371.0 km`
 - `λ = 0.5 km`
 
-## Demonstração no Terminal
+## Demonstração
 
-Adicione aqui uma imagem do terminal executando o menu principal do Orbitrace.
-
-<!--
-Quando adicionar o screenshot, salve a imagem em `assets/terminal-demo.png` e descomente o bloco abaixo.
+<details open>
+<summary><strong>Terminal</strong></summary>
 
 <p align="center">
-  <img src="assets/terminal-demo.png" alt="Demonstração do Orbitrace no terminal" width="800">
+  <img src="./assets/orbitrace-terminal-menu.png" alt="Demonstração do Orbitrace no terminal" width="800">
 </p>
--->
+
+</details>
 
 ## Gráficos Gerados
 
@@ -58,7 +57,8 @@ O sistema gera automaticamente uma visualização com quatro subplots: período 
 ```text
 .
 ├── assets/
-│   └── .gitkeep
+│   ├── .gitkeep
+│   └── orbitrace-terminal-menu.png
 ├── ORBITRACE-CALCULO-GS.py
 ├── ORBITRACE-DOCUMENTACAO-CALCULO.pdf
 ├── orbitrace_graficos.png
