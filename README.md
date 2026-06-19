@@ -33,11 +33,16 @@ Constantes utilizadas:
 - `R_T = 6371.0 km`
 - `λ = 0.5 km`
 
-## Demonstração no Terminal
+## Demonstração
+
+<details open>
+<summary><strong>Terminal</strong></summary>
 
 <p align="center">
   <img src="terminal.png" alt="Demonstração do Orbitrace no terminal" width="800">
 </p>
+
+</details>
 
 ## Gráficos Gerados
 
