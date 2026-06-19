@@ -53,45 +53,6 @@ O sistema gera automaticamente uma visualização com quatro subplots: período 
   <img src="orbitrace_graficos.png" alt="Gráficos das funções matemáticas do Orbitrace" width="850">
 </p>
 
-## Como Executar
-
-Clone o repositório:
-
-```bash
-git clone https://github.com/pedropcorsini/orbitrace-fiap.git
-cd orbitrace-fiap
-```
-
-Crie e ative um ambiente virtual:
-
-```bash
-python -m venv .venv
-```
-
-No Windows:
-
-```bash
-.venv\Scripts\activate
-```
-
-No Linux ou macOS:
-
-```bash
-source .venv/bin/activate
-```
-
-Instale as dependências:
-
-```bash
-pip install -r requirements.txt
-```
-
-Execute o projeto:
-
-```bash
-python ORBITRACE-CALCULO-GS.py
-```
-
 ## Estrutura do Projeto
 
 ```text
@@ -120,15 +81,6 @@ ORBITRACE-DOCUMENTACAO-CALCULO.pdf
 - NumPy
 - Matplotlib
 - Modelagem matemática aplicada
-
-## Equipe
-
-| Integrante | RM |
-| --- | --- |
-| Pedro Passos Corsini | 573493 |
-| Pedro Thyago Araujo dos Santos | 570939 |
-| Daniel Gomes Torres | 573436 |
-| Henrique Lira | 571009 |
 
 ## Observação
 
