@@ -35,15 +35,9 @@ Constantes utilizadas:
 
 ## Demonstração no Terminal
 
-Adicione aqui uma imagem do terminal executando o menu principal do Orbitrace.
-
-<!--
-Quando adicionar o screenshot, salve a imagem em `assets/terminal-demo.png` e descomente o bloco abaixo.
-
 <p align="center">
-  <img src="assets/terminal-demo.png" alt="Demonstração do Orbitrace no terminal" width="800">
+  <img src="TERMINAL.png" alt="Demonstração do Orbitrace no terminal" width="800">
 </p>
--->
 
 ## Gráficos Gerados
 
@@ -61,6 +55,7 @@ O sistema gera automaticamente uma visualização com quatro subplots: período 
 │   └── .gitkeep
 ├── ORBITRACE-CALCULO-GS.py
 ├── ORBITRACE-DOCUMENTACAO-CALCULO.pdf
+├── TERMINAL.png
 ├── orbitrace_graficos.png
 ├── .gitignore
 ├── requirements.txt
